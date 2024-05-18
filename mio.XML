@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-05-17T00:00:00+00:00" agent="5.0 (Windows)" etag="8SRWU-JCXk5kxGz6WlxJ" version="14.6.11">
+    <diagram name="Page-1" id="c61eXwuodNIrK8SWkAbC">
+        <mxGraphModel dx="928" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="10" value="Barra de Navegación" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;spacingLeft=6;spacingRight=6;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="200" y="0" width="528" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="10">
+                    <mxGeometry x="0" y="0" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Habitaciones" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="10">
+                    <mxGeometry x="110" y="0" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Eventos" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="10">
+                    <mxGeometry x="220" y="0" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="Reservas" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="10">
+                    <mxGeometry x="330" y="0" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Contacto" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="10">
+                    <mxGeometry x="440" y="0" width="110" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Reserva de Eventos" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="100" width="600" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Calendario de Disponibilidad\n\n[Seleccionar fecha de inicio] [Seleccionar fecha de finalización]\n[Buscar disponibilidad]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="180" width="250" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Eventos Disponibles\n\n[Lista de Eventos Disponibles]\n- Evento 1: [Descripción breve] - [Capacidad máxima] personas - [Tarifa por día]\n   - [Botón de Reservar]\n- Evento 2: [Descripción breve] - [Capacidad máxima] personas - [Tarifa por día]\n   - [Botón de Reservar]\n- Evento 3: [Descripción breve] - [Capacidad máxima] personas - [Tarifa por día]\n   - [Botón de Reservar]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="180" width="400" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Formulario de Reserva de Eventos\n\n[Nombre del Evento]\n[Fecha de Inicio] - [Fecha de Finalización]\n[Capacidad Estimada de Asistentes]\n\n[Nombre del Solicitante]\n[Correo Electrónico]\n[Teléfono de Contacto]\n[Comentarios Adicionales]\n\n[Botón de Confirmar Reserva]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="330" width="700" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Footer\n\n[Información de Contacto]\n[Enlaces Rápidos]\n[Redes Sociales]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="550" width="500" height="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
